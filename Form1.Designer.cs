@@ -171,6 +171,7 @@
             btnclaer.TabIndex = 18;
             btnclaer.Text = "CLEAR";
             btnclaer.UseVisualStyleBackColor = false;
+            btnclaer.Click += clearBtn;
             // 
             // btnmultiply
             // 
@@ -278,6 +279,7 @@
             btnsqrt.TabIndex = 24;
             btnsqrt.Text = "sqrt";
             btnsqrt.UseVisualStyleBackColor = false;
+            btnsqrt.Click += sqrtBtn;
             // 
             // btnonehalf
             // 
@@ -289,6 +291,7 @@
             btnonehalf.TabIndex = 23;
             btnonehalf.Text = "1/x";
             btnonehalf.UseVisualStyleBackColor = false;
+            btnonehalf.Click += oneHalfBtn;
             // 
             // btnsq
             // 
@@ -300,7 +303,7 @@
             btnsq.TabIndex = 22;
             btnsq.Text = "x^2";
             btnsq.UseVisualStyleBackColor = false;
-            btnsq.Click += button19_Click;
+            btnsq.Click += squareBtn;
             // 
             // Form1
             // 
