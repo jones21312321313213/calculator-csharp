@@ -1,0 +1,17 @@
+C:\Users\zyla\IntSys\CalculatorC#\CalculatorC#\bin\Debug\net8.0-windows\CalculatorC#.exe
+C:\Users\zyla\IntSys\CalculatorC#\CalculatorC#\bin\Debug\net8.0-windows\CalculatorC#.deps.json
+C:\Users\zyla\IntSys\CalculatorC#\CalculatorC#\bin\Debug\net8.0-windows\CalculatorC#.runtimeconfig.json
+C:\Users\zyla\IntSys\CalculatorC#\CalculatorC#\bin\Debug\net8.0-windows\CalculatorC#.dll
+C:\Users\zyla\IntSys\CalculatorC#\CalculatorC#\bin\Debug\net8.0-windows\CalculatorC#.pdb
+C:\Users\zyla\IntSys\CalculatorC#\CalculatorC#\obj\Debug\net8.0-windows\CalculatorC_.Form1.resources
+C:\Users\zyla\IntSys\CalculatorC#\CalculatorC#\obj\Debug\net8.0-windows\CalculatorC#.csproj.GenerateResource.cache
+C:\Users\zyla\IntSys\CalculatorC#\CalculatorC#\obj\Debug\net8.0-windows\CalculatorC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zyla\IntSys\CalculatorC#\CalculatorC#\obj\Debug\net8.0-windows\CalculatorC#.AssemblyInfoInputs.cache
+C:\Users\zyla\IntSys\CalculatorC#\CalculatorC#\obj\Debug\net8.0-windows\CalculatorC#.AssemblyInfo.cs
+C:\Users\zyla\IntSys\CalculatorC#\CalculatorC#\obj\Debug\net8.0-windows\CalculatorC#.csproj.CoreCompileInputs.cache
+C:\Users\zyla\IntSys\CalculatorC#\CalculatorC#\obj\Debug\net8.0-windows\CalculatorC#.sourcelink.json
+C:\Users\zyla\IntSys\CalculatorC#\CalculatorC#\obj\Debug\net8.0-windows\CalculatorC#.dll
+C:\Users\zyla\IntSys\CalculatorC#\CalculatorC#\obj\Debug\net8.0-windows\refint\CalculatorC#.dll
+C:\Users\zyla\IntSys\CalculatorC#\CalculatorC#\obj\Debug\net8.0-windows\CalculatorC#.pdb
+C:\Users\zyla\IntSys\CalculatorC#\CalculatorC#\obj\Debug\net8.0-windows\CalculatorC#.genruntimeconfig.cache
+C:\Users\zyla\IntSys\CalculatorC#\CalculatorC#\obj\Debug\net8.0-windows\ref\CalculatorC#.dll
