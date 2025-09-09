@@ -250,6 +250,7 @@ namespace CalculatorC_
                 result = number * number;
                 textBox1.Text = result.ToString();
                 operationPending = false;
+                isResDisplayed = true;
                 currentInput = result.ToString();
             }
             else
@@ -270,6 +271,7 @@ namespace CalculatorC_
                     textBox1.Text = result.ToString();
                     currentInput = result.ToString();
                     operationPending = false;
+                    isResDisplayed = true;
                 }
                 else
                 {
@@ -295,6 +297,7 @@ namespace CalculatorC_
                     textBox1.Text = result.ToString();
                     currentInput = result.ToString();
                     operationPending = false;
+                    isResDisplayed = true;
                 }
                 else
                 {
